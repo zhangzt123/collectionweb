@@ -1,4 +1,15 @@
 spring-api ----------https://docs.spring.io/spring/docs/
+
 spring-boot-api ----https://docs.spring.io/spring-boot/docs/
+
 spring --data-------https://docs.spring.io/spring-data/
+
 git 使用 ------ https://blog.csdn.net/zamamiro/article/details/70172900
+
+  官方网站提供了JCE无限制权限策略文件的下载： 
+  JDK6的下载地址： 
+  http://www.oracle.com/technetwork/java/javase/downloads/jce-6-download-429243.html 
+  JDK7的下载地址： 
+  http://www.oracle.com/technetwork/java/javase/downloads/jce-7-download-432124.html 
+  JDK8的下载地址： 
+  http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html 
